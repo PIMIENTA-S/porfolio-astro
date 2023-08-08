@@ -1,0 +1,59 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header title={SITE_TITLE} />
+		<main>
+			<h1>Hola!, Angell Pimienta</h1>
+			<p>
+				Soy diseñador web especializado en el front-end. <br>
+				Estudiante de la Universidad nacional de colombia sede medellin.
+			</p>
+				
+			<h3>Habilidades</h3>
+			<h4>Desarrolo Front-end</h4>
+			<p>
+				<b>HTML:</b> Creación de estructura semántica y accesible para páginas web. <br>
+				<b>CSS:</b> Diseño y estilización de páginas web, incluyendo CSS Grid y Flexbox. <br>
+				<b>JavaScript:</b> Creación de interacciones dinámicas y mejoras en la experiencia del usuario. <br>
+			</p>
+
+			<h4>Lenguajes de Programación</h4>
+			<p>
+				<b>Python:</b> Desarrollo de aplicaciones y scripts, incluyendo proyectos web con frameworks como Astro. <br>
+				<b>Java:</b> Conocimiento en programación orientada a objetos y desarrollo de aplicaciones de escritorio. <br>
+			</p>
+
+			<h4>Herramientas y Tecnologías</h4>
+			<ul>
+				<li><b>Git:</b> Control de versiones para colaboración eficiente en proyectos.</li>
+				<li><b>React:</b> Creación de interfaces de usuario interactivas y componentes reutilizables.</li>
+				<li><b>Bootstrap:</b> Utilización de frameworks para agilizar el diseño y la maquetación.</li>
+				<li><b>SASS:</b> Preprocesador CSS para una estilización más eficiente y modular.</li>
+				<li><b>Visual Studio Code:</b> Entorno de desarrollo preferido para escribir y depurar código.</li>
+				<li><b>Adobe XD:</b> Diseño de prototipos y maquetas para proyectos web.</li>
+			</ul>
+			<p>
+				Si quieres ver algunos de mis proyectos, lo puedes haces a traves de  <a href="https://github.com/PIMIENTA-S?tab=repositories">mi GitHub
+				</a>
+			</p>
+			<p>
+				Contactame por el correo <a
+					href="mailto:angelefrain1510@gmail.com"
+					>angelefrain1510@gmail.com
+				</a>.
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
+
