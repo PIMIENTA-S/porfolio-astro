@@ -1,18 +1,8 @@
 # Astro Starter Kit: Blog
 
-```
-npm create astro@latest -- --template blog
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
-
-Features:
+![Captura de pantalla 2023-08-08 220618](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/b9bfb749-2d3b-407c-8277-da8705466978)
+![Captura de pantalla 2023-08-08 220632](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/8e0216ac-50cb-4625-a561-ec530858971e)
+![Captura de pantalla 2023-08-08 220646](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/5c1458fe-e9f0-4c28-acab-5f22ec404d5d)
 
 - ✅ Minimal styling (make it your own!)
 - ✅ 100/100 Lighthouse performance
@@ -59,10 +49,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
