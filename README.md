@@ -1,8 +1,8 @@
 # Astro Starter Kit: Blog
 
-![Captura de pantalla 2023-08-08 220618](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/b9bfb749-2d3b-407c-8277-da8705466978)
-![Captura de pantalla 2023-08-08 220632](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/8e0216ac-50cb-4625-a561-ec530858971e)
-![Captura de pantalla 2023-08-08 220646](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/5c1458fe-e9f0-4c28-acab-5f22ec404d5d)
+![Captura de pantalla 2023-08-08 220618](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/c8ea7a31-1797-4da7-9c82-4e46bc690257)
+![Captura de pantalla 2023-08-08 220632](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/05522854-76b6-4ec5-9ef6-b848dc6ffe01)
+![Captura de pantalla 2023-08-08 220646](https://github.com/PIMIENTA-S/porfolio-astro/assets/80433456/6732dd89-559d-44e9-b8d8-b652d8ec48dc)
 
 - ✅ Minimal styling (make it your own!)
 - ✅ 100/100 Lighthouse performance
